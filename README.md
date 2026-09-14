@@ -71,10 +71,12 @@ A collection of web development work covering HTML, CSS, JavaScript, and full-st
 
 ## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhruvanthi-kr-10b62132/)
-- 📧 [dhruvanthikr153@gmail.com](mailto:dhruvanthikr153@gmail.com)
-- 💻 [GitHub](https://github.com/Dhruvanthi-KR)
+- 💼 LinkedIn: [Dhruvanthi KR](https://www.linkedin.com/in/dhruvanthi-kr-10b62132/)
+- 📧 Email: [dhruvanthikr153@gmail.com](mailto:dhruvanthikr153@gmail.com)
+- 💻 GitHub: [Dhruvanthi-KR](https://github.com/Dhruvanthi-KR)
 
 ---
+
+⭐ Thanks for visiting my profile.
 
 ⭐ Thanks for visiting my profile!
