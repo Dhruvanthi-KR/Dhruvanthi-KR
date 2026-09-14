@@ -1,12 +1,98 @@
-## Hi there 👋
+# Hi, I'm Dhruvanthi 👋
 
-👩‍💻 I'm Dhruvanthi K R  
-🎓 CSE Student at Nagarjuna College of Engineering and Technology  
+### AI & Software Developer | Python • Java • Full-Stack
 
-- 🔭 I’m currently working on improving my **Data Structures and Algorithms**
-- 🌱 I’m currently learning **Java and Full Stack Development**
-- 🤝 I’m looking to collaborate on **beginner-friendly projects and open source**
-- 🤔 I’m looking for help with **advanced DSA and backend development**
-- 💬 Ask me about **C programming and problem solving**
-- 📫 How to reach me: **LinkedIn**
-- ⚡ Fun fact: **I love learning new technologies and building projects**
+I'm a developer interested in building practical software applications and AI-powered solutions.
+
+I enjoy working across application development, AI/LLM integration, backend logic, and user-focused interfaces.
+
+---
+
+## About Me
+
+- 💻 Building projects with Python, Java, and web technologies
+- 🤖 Exploring AI, LLMs, and AI-powered applications
+- 🌐 Learning and developing full-stack applications
+- 🧠 Improving problem-solving and software development skills
+- 🚀 Interested in building practical, real-world projects
+
+---
+
+## Featured Project
+
+### DHRIVA — AI Document & Conversational Assistant
+
+A full-stack AI application built with **Python, Streamlit, and Groq**.
+
+DHRIVA combines conversational AI with document processing to provide an interactive assistant experience.
+
+**Key Features**
+
+- AI-powered conversational interface
+- Real-time streaming responses
+- Multi-page PDF document processing
+- OCR support for scanned PDFs
+- Secure user authentication
+- Persistent user-specific chat history
+- Chat creation, renaming, deletion, and regeneration
+- TXT and JSON chat export
+- Input validation and error handling
+- Responsive custom interface
+
+**Technology**
+
+`Python` `Streamlit` `Groq API` `SQLite` `OCR` `Git` `GitHub`
+
+**Links**
+
+[Live Demo](https://dhriva-ai.streamlit.app/) •
+[Source Code](https://github.com/Dhruvanthi-KR/DHRIVA-AI)
+
+---
+
+## Technical Skills
+
+### Languages
+Python • Java • JavaScript • HTML • CSS
+
+### AI & Backend
+LLMs • Groq API • Streamlit • OCR • SQLite
+
+### Tools
+Git • GitHub • VS Code
+
+---
+
+## Other Projects
+
+### School Management System
+A software project developed as part of my programming and application development journey.
+
+[View Repository](https://github.com/Dhruvanthi-KR/School-Management-System)
+
+### Full-Stack Journey
+A collection of web development work covering HTML, CSS, JavaScript, and full-stack learning.
+
+[View Repository](https://github.com/Dhruvanthi-KR/fullstack-journey)
+
+---
+
+## Currently Learning
+
+- Artificial Intelligence & Large Language Models
+- Backend Development
+- Full-Stack Development
+- Data Structures & Algorithms
+- Software Engineering
+
+---
+
+## Connect
+
+- 💼 LinkedIn: [Dhruvanthi KR](https://www.linkedin.com/in/dhruvanthi-kr-10b62132/)
+- 📧 Email: [dhruvanthikr153@gmail.com](mailto:dhruvanthikr153@gmail.com)
+- 💻 GitHub: [Dhruvanthi-KR](https://github.com/Dhruvanthi-KR)
+
+---
+
+⭐ Thanks for visiting my profile.
