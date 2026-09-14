@@ -26,30 +26,12 @@ A full-stack AI application built with **Python, Streamlit, and Groq**.
 
 DHRIVA combines conversational AI with document processing to provide an interactive assistant experience.
 
-**Key Features**
-
-- AI-powered conversational interface
-- Real-time streaming responses
-- Multi-page PDF document processing
-- OCR support for scanned PDFs
-- Secure user authentication
-- Persistent user-specific chat history
-- Chat creation, renaming, deletion, and regeneration
-- TXT and JSON chat export
-- Input validation and error handling
-- Responsive custom interface
-
-**Technology**
-
-`Python` `Streamlit` `Groq API` `SQLite` `OCR` `Git` `GitHub`
-
 **Links**
 
 [Live Demo](https://dhriva-ai.streamlit.app/) •
 [Source Code](https://github.com/Dhruvanthi-KR/DHRIVA-AI)
 
 ---
-
 ## Technical Skills
 
 ### Languages
@@ -89,10 +71,10 @@ A collection of web development work covering HTML, CSS, JavaScript, and full-st
 
 ## Connect
 
-- 💼 LinkedIn: [Dhruvanthi KR](https://www.linkedin.com/in/dhruvanthi-kr-10b62132/)
-- 📧 Email: [dhruvanthikr153@gmail.com](mailto:dhruvanthikr153@gmail.com)
-- 💻 GitHub: [Dhruvanthi-KR](https://github.com/Dhruvanthi-KR)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhruvanthi-kr-10b62132/)
+- 📧 [dhruvanthikr153@gmail.com](mailto:dhruvanthikr153@gmail.com)
+- 💻 [GitHub](https://github.com/Dhruvanthi-KR)
 
 ---
 
-⭐ Thanks for visiting my profile.
+⭐ Thanks for visiting my profile!
